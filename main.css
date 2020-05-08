@@ -1,0 +1,44 @@
+.logo{
+	background-image: url(../img/dlinnye-fotografii.jpg);
+	min-height: 200px;
+
+	background-size: cover;
+	background-position: center;
+}
+
+.text{
+	margin-bottom: 40px
+	font-size: 20em;
+	font-family: Times New Roman;
+	color: white;
+	text-align: center;
+	padding-top: 60px;
+}
+.text2{
+	font-family: Times New Roman;
+	color: black;
+}
+
+section{
+	margin: 15px;
+}
+
+.ancor {
+	background-color: lightblue;
+	font-family: Times New Roman;
+	padding: 10px 20px;
+	border-radius: 10px;
+	color: black;
+}
+
+.ancor2 {
+	background-color: lightblue;
+	font-family: Times New Roman;
+	padding: 10px 20px;
+	border-radius: 10px;
+	color: black;
+}
+
+
+
+
